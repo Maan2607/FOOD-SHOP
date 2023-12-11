@@ -1,0 +1,29 @@
+{
+  "name": "pos-mern",
+  "version": "1.0.0",
+  "description": "pos mern app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "seed": "node seeder.js",
+    "client": "npm start --prefix client ",
+    "dev": "concurrently \"npm run server\" \"npm run client\" "
+  },
+  "author": "Mantaran singh",
+  "license": "ISC",
+  "dependencies": {
+    "antd": "^5.6.2",
+    "body-parser": "^1.20.2",
+    "colors": "^1.4.0",
+    "concurrently": "^8.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.4",
+    "expess": "^0.0.1-security",
+    "express": "^4.18.2",
+    "mongoose": "^7.2.4",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.22",
+    "server": "^1.0.38"
+  }
+}
