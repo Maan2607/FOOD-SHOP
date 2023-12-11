@@ -4,8 +4,13 @@
 <br>
 <br>
 ![Screenshot (27)](https://github.com/Maan2607/FOOD-SHOP/blob/main/Pictures/Screenshot%20(27).jpg)
-![Screenshot (31)](https://github.com/Maan2607/FOOD-SHOP/assets/101566688/85fe398e-7d5b-4ee4-a506-45b2716bcd37)
-![Screenshot (36)](https://github.com/Maan2607/FOOD-SHOP/assets/101566688/67feec74-cbc1-482f-9618-8c80dece373b)
-![Screenshot (38)](https://github.com/Maan2607/FOOD-SHOP/assets/101566688/02ebad63-5b46-4122-b245-08494a9196e5)
-![Screenshot (35)](https://github.com/Maan2607/FOOD-SHOP/assets/101566688/0eb87ae2-e2ec-409e-944a-0944dd2e068e)
+![Screenshot (31)](https://github.com/Maan2607/FOOD-SHOP/blob/main/Pictures/Screenshot%20(31).jpg)
+![Screenshot (32)](https://github.com/Maan2607/FOOD-SHOP/blob/main/Pictures/Screenshot%20(32).jpg)
+![Screenshot (33)](https://github.com/Maan2607/FOOD-SHOP/blob/main/Pictures/Screenshot%20(33).jpg)
+![Screenshot (34)](https://github.com/Maan2607/FOOD-SHOP/blob/main/Pictures/Screenshot%20(34).jpg)
+![Screenshot (35)](https://github.com/Maan2607/FOOD-SHOP/blob/main/Pictures/Screenshot%20(35).jpg)
+![Screenshot (36)](https://github.com/Maan2607/FOOD-SHOP/blob/main/Pictures/Screenshot%20(36).jpg)
+![Screenshot (38)](https://github.com/Maan2607/FOOD-SHOP/blob/main/Pictures/Screenshot%20(38).jpg)
+![Screenshot (39)](https://github.com/Maan2607/FOOD-SHOP/blob/main/Pictures/Screenshot%20(39).jpg)
+
 
